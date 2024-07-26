@@ -21,5 +21,8 @@ public class Team {
         }
     }
 
+    public int getCarsCount(){
+        return cars.length;
+    }
 
 }
